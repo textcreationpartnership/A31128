@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the burrough of New-Windsor, in the county of Berks, concerning the election of their burgesses to serve in this ensuing Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31128</idno>
+            <idno type="STC">Wing C1023</idno>
+            <idno type="STC">ESTC R22306</idno>
+            <idno type="EEBO-CITATION">12264398</idno>
+            <idno type="OCLC">ocm 12264398</idno>
+            <idno type="VID">57949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 176:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the burrough of New-Windsor, in the county of Berks, concerning the election of their burgesses to serve in this ensuing Parliament</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elections --  England --  Berkshire.</term>
+               <term>Windsor (Berkshire, England) --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:57949:1"/>
+            <pb n="1" facs="tcp:57949:1" rendition="simple:additions"/>
+            <head>THE CASE OF THE BURROUGH OF New-Windſor, In the County of <hi>Berks,</hi> Concerning the Election of their Burgeſſes to ſerve in this enſuing Parliament.</head>
+            <p>
+               <hi>WIndſor</hi> is a Free Burrough, which time out of mind hath ſent two Burgeſſes to ſerve in Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>The ancient right way of Electing theſe Bur<g ref="char:EOLhyphen"/>geſſes, is by the common Burgeſſes in general, to wit, the In<g ref="char:EOLhyphen"/>habitants, Houſe-holders of the Burrough (being neither In<g ref="char:EOLhyphen"/>mates, Lodgers, Sojourners, nor Alms-takers) which is moſt a<g ref="char:EOLhyphen"/>greeable to Law, and moſt uſual, where there is no ſpecial Cuſtom to the contrary; as where they chuſe by Freemen, there if a Freeman decay ſo as to receive Alms, yet his Vote is good. The like where they chuſe by ancient Burgage-Houſes, in point of Tenure, if an Inhabitant of one of thoſe Houſes receive Alms yet his Poll is good, <hi>&amp;c.</hi>
+            </p>
+            <p>This Burrough is likewiſe Incorporate by Charter, conſiſt<g ref="char:EOLhyphen"/>ing of a number not exceeding 30. choſen out of the general Bur<g ref="char:EOLhyphen"/>geſſes, Inhabitants, and called by the name of Mayor, Bayliffs, and Burgeſſes.</p>
+            <p>This Select number of Burgeſſes have pretended to the ſole right of Election of Burgeſſes to Parliament in themſelves, ex<g ref="char:EOLhyphen"/>cluding the general Inhabitancy, and have occaſioned ſeveral Competitions in Parliament, <hi>viz. Anno</hi> 1640. it was adjudged for the general Inhabitants, againſt the ſpecial men: <hi>Anno</hi> 1661.
+<pb n="2" facs="tcp:57949:2"/>for the ſpecial men, and in the laſt Parliament for the general In<g ref="char:EOLhyphen"/>habitants again: Where obſerve by the way, that the Inhabi<g ref="char:EOLhyphen"/>tants in general, is and muſt be meant the Burgeſſes in general of the Burrough, with reference to the Burgeſſes ſpecial of the Corporation of the Burrough, that is, the Houſe keepers in general, who are in Law called the Free Burgeſſes of an ancient Burrough; and not every particular perſon that lives in the Town, as a Lodger, Sojourner, <hi>&amp;c.</hi>
+            </p>
+            <p>Which being premiſed for the clearer apprehenſion of the caſe, the matter of Fact proceeds thus.</p>
+            <p>
+               <hi>Thurſday, Aug.</hi> 28. laſt, was the day of this Election, as <hi>Thurſday Feb.</hi> 26. was of the former, and perhaps may prove as fortunate to them, where there ſtood in Competition, <hi>Rich. Winwood,</hi> and <hi>Samuel Starkey,</hi> Eſquires, who in the laſt Par<g ref="char:EOLhyphen"/>liament had recovered the ancient right for the Inhabitants, againſt the ſpecial Burgeſſes, <hi>John Carey,</hi> 
+               <abbr>Eſq</abbr> Maſter of the Kings Buck-Hounds, and <hi>John Powney,</hi> 
+               <abbr>Eſq</abbr> Purveyor of Hay, and Corporal of the Yeomen of the Guard, and who was diſ<g ref="char:EOLhyphen"/>miſſed the laſt Houſe of Commons upon the ſaid Proſecution.</p>
+            <p>
+               <hi>Winwood</hi> and <hi>Starkey,</hi> ſtood to be choſen by the general Bur<g ref="char:EOLhyphen"/>geſſes, Houſeholders of the Burrough, and as near as could be polled no other.</p>
+            <p>
+               <hi>Carey,</hi> and <hi>Powney,</hi> took far different meaſures, for having the Mayor and Under-Steward at their devotion for the Return (who did poſitively refuſe to admit any Exceptions or Queries to be entered on the Poll-book, but promiſed liberty of debate afterwards) they were reſolved to have the majority of Votes at any rate, to which end they polled not only Inhabitants of the Burrough (thoſe few whom they had obtained by ſuch un<g ref="char:EOLhyphen"/>due practiſes as no Loyal Subject will venture to mention but in the place where they muſt be adjudged) but likewiſe the Inha<g ref="char:EOLhyphen"/>bitants of the adjacent Villages round about, Inmates, Lodgers, Sojourners, Almes-men, Bargemen living 30 miles from thence, Citizens of <hi>London,</hi> and in ſhort, every perſon that could give an account of his name, if he were for <hi>Carey,</hi> and <hi>Powney,</hi> was excepted.</p>
+            <p>Notwithſtanding all which, the Majority of Votes yet reſt<g ref="char:EOLhyphen"/>ed with <hi>Winwood,</hi> and <hi>Starkey,</hi> wherefore to make the buſineſs ſure, His Majeſty and the Queen being then Reſident in the Caſtle of <hi>Windſor,</hi> a place wholly exempt from the Burrough, and onely part of the County at large, <hi>Carey,</hi> and <hi>Powney,</hi> Sum<g ref="char:EOLhyphen"/>moned in their Servants, polling thorough all the Offices from the Board of Green-Cloth down to the Grooms, Water-men, Letter-men, helpers in Stables, and Turn-ſpits (endeavouring to perſwade the World, that becauſe his Majeſty had been 40 days reſident in the Caſtle of <hi>Windſor;</hi> therefore by a fatal con<g ref="char:EOLhyphen"/>ſequence all the Servants muſt be Inhabitants and Free Burgeſſes
+<pb n="3" facs="tcp:57949:2"/>of the Burrough of <hi>Windſor,</hi> capable to give Votes in Election of Burgeſſes for Parliament; whereas if it were poſſible that ſuch an Impoſition could take; yet were they ſo often changed in waiting, that few had been there 40 days, and beſides many of them do not Lodg in <hi>Windſor,</hi> but the Neighbouring Towns.</p>
+            <p>They polled likewiſe Yeomen of the Guard, Gentlemen of the Horſe-guard; and no doubt, would have proceeded both to Horſe and Foot; but that the other party cryed Quarter; and yielded them the majority of thoſe Votes.</p>
+            <p>The Poll being cloſed, and the Poll-book ſo diſguiſed, that it was hard to diſtinguiſh, whether it were a Poll-book of the general Burgeſſes of the Burrough, a Roll of the King and Queens Servants, or a Muſter of the Soldiers. <hi>Winwood</hi> and <hi>Star<g ref="char:EOLhyphen"/>key</hi> took Exceptions to their Poll, and offered to juſtifie their own, and telling the Mayor how dangerous it was for him, whom the Law had intruſted with the diſcrimination of good from bad Votes, upon every ſlight occaſion, to give a trouble to the Houſe of Commons, who have the great Affairs of the Nation Incumbent on them; deſired him to take good advice upon his Return (having time enough) and who ever had the majority of Votes of the general Burgeſſes of the Burrough, according to Law to return them; which they conceiving themſelves to have, demanded; and the Mayor promiſing to give notice of time to diſcuſs the Queries, and that he would afterwards adviſe upon his Return. They left him about 12 of the Clock on <hi>Friday,</hi> to thoſe fair conſiderations: In the mean time they prepared to make good their Exceptions, taking out a Liſt of particulars from their Counter-poll-books; and plying the Mayor with continual meſſages, that they could make them good, and that they were ſure of the majority of Legal Electors (which they had by many Votes) <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Starkey</hi> 212 beſide Queries.</item>
+               <item>
+                  <hi>Winwood</hi> 191 beſide Queries.</item>
+               <item>
+                  <hi>Powney</hi> 154 beſide Queries.</item>
+               <item>
+                  <hi>Carey</hi> 96 beſide Queries.</item>
+            </list>
+            <p>The Mayor ſtill return'd for anſwer, he would take time, and make his Return with good advice; declaring he did believe in his Conſcience, <hi>Winwood</hi> and <hi>Starkey</hi> had moſt of the Inhabi<g ref="char:EOLhyphen"/>tants; and that thoſe people (meaning the King and Queen's Servants, <hi>&amp;c.</hi>) had no Votes.</p>
+            <p>
+               <hi>Winwood</hi> and <hi>Starkey</hi> remained ſatisfied the Mayor would be juſt; but inſtead thereof, <hi>Monday</hi> following, their names were in the <hi>London-Gazette,</hi> as choſen Burgeſſes for <hi>Windſor,</hi> before they were proclaimed there, longing it ſeems to publiſh the con<g ref="char:EOLhyphen"/>queſt to the World, where it was taken for granted they would be ſo, and accordingly the ſame day, the Under-Steward having made a learned ſpeech among the brethren of the Corporation
+<pb n="4" facs="tcp:57949:3" rendition="simple:additions"/>in their <hi>Guild-Hall,</hi> ſignifying that <hi>Carey</hi> and <hi>Powney</hi> had the majority of Votes, and if any Exceptions were to be taken, the proper place was the Houſe of Commons, they prevailed with the Mayor to Seal an Indenture of Return of <hi>Carey</hi> and <hi>Powney,</hi> and ſo proclaimed them, without any deciſion of the Queries, or any reaſon offered by the Mayor for it; but that he durſt not Return <hi>Winwood</hi> and <hi>Starkey,</hi> for if he ſhould they would kill him.</p>
+            <p>Which arbitrary and illegal proceeding of theirs, contains in it, not only merit of Election, but alſo great matter of Grievance, being as it were one general aſſault upon all the Laws made for the preſervation of the Freedom of Elections, it is therefore hoped the Honourable the Knights, Citizens and Burgeſſes, when they ſhall be aſſembled in Parliament, will be pleaſed to hear this Cauſe at the Bar of the whole Houſe; where Mr. <hi>Winwood</hi> and Mr. <hi>Starkey,</hi> having experienced the great juſtice of the laſt Houſe of Commons, do not queſtion but to be vindicated, and the Of<g ref="char:EOLhyphen"/>fenders for example ſake ſtrictly puniſhed.</p>
+            <p>The Clemency of the laſt Houſe towards this Mayor, has made way for the Juſtice of this; for had he ſuffered for his falſe Return then, he would have taken more care for a true one now; for till a Bill can paſs for Regulating Elections, without doubt the way to have true Returns, is ſeverely to handle not on<g ref="char:EOLhyphen"/>ly the proper Officers directly, but likewiſe the Contrivers and managers of falſe ones, eſpecially having not the leaſt colour of a point in Law to warrant them: According to the good and fa<g ref="char:EOLhyphen"/>mous example of the caſe of <hi>Norfolk,</hi> in the laſt Houſe; where not only the proper Officer, the Sheriff, was committed for miſ<g ref="char:EOLhyphen"/>demeanour in the Election for Knights of that County; but likewiſe a Doct. who had diſperſed a great mans Letter, influen<g ref="char:EOLhyphen"/>cing the Freeholders to one particular party, contrary to Law, was ordered to be ſent for, as a Contriver of undue practices; by which means there will be leſs heat in Elections; and Gen<g ref="char:EOLhyphen"/>tlemen, fairly and indifferently choſen by their reſpective Coun<g ref="char:EOLhyphen"/>tries, will be returned without the charge of Petitions, the in<g ref="char:EOLhyphen"/>convenience whereof is ſcarce conceiveable, but by ſuch perſons as have been concerned in them, they being oblieged to ſtrug<g ref="char:EOLhyphen"/>gle not onely againſt the foulneſs of the action, but likewiſe with the urgency of publick Affairs to get a hearing; and to which this Cauſe of Election is humbly referred, with this, that much more will be proved at the hearing than is here ſet down.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57949:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
